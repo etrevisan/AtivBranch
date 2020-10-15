@@ -30,5 +30,8 @@ int main()
     break;
     }
 
+printf("Adicionando modificações no arquivo de calculadora, para aula de branches Tânia\n");
+printf("Adicionando mais printfs ao arquivo para alterações");
+
     return 0;
 }
